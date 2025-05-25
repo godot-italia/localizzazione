@@ -16,6 +16,7 @@
  | Inglese | Italiano |
  | --- | --- |
  | Bypass | Bypass |
+ | Stream | Flusso |
 
 ## Grafica 3D
  | Inglese | Italiano |
@@ -36,46 +37,51 @@
 ## Interfaccia
  | Inglese | Italiano |
  | --- | --- |
+ | Bottom panel | Pannello inferiore |
  | Collapse | Comprimere |
  | Dock | Pannello |
- | Focus | Focalizzare |
+ | Focus | Focalizzare (verbo) <br> Focus (nome) |
+ | Fold | Ridurre |
+ | Gutter | Barra laterale |
  | Spinner | Rotella |
  | Tab | Scheda |
+ | Unfold | Espandere |
 
-## Miscellanei 
+## Miscellaneo
  | Inglese | Italiano |
  | --- | --- |
  | Addon | Contenuto aggiuntivo |
  | To adjust | Regolare |
- | Asset | Contenuto |
+ | Asset | Contenuto[^contenuto] |
  | Azimuth | Azimut |
- | To bake | Preprocessare |
+ | To bake | Precalcolare <br> Preparare |
  | Bug | Bug |
  | Broken | Danneggiato, rotto |
  | Can't/Unable to/... X | Impossibile X... |
  | Cannot/Can't be undone | Non può essere annullato[^annullare] |
  | Change | Cambiamento |
  | Clip | Segmento (quando si parla di "Audio Clip", "Animation Clip" e simili) |
- | Display | Schermo (nome), visualizzare (verbo, connotazione più passiva) o mostare (verbo, connotazione più attiva) |
+ | Display | Schermo (nome) <br> Visualizzare (verbo, connotazione più passiva) <br> Mostrare (verbo, connotazione più attiva) |
  | Directed | Orientato |
  | Edit | Modifica |
  | Flag | Opzione |
+ | Font | Font |
  | Layer | Livello |
  | Loop | Ripetizione |
- | Metadata | Metadato (uno), Metadati (tanti) |
+ | Metadata | Metadato (uno) <br> Metadati (tanti) |
  | No undo | Irreversibile |
  | Offset | Scostamento |
  | Output | Uscita |
  | Palette | Tavolozza |
  | Pivot | Perno |
- | Target | destinazione (luogo), obiettivo (generico) |
+ | Target | Destinazione (luogo) <br> Obiettivo (generico) |
  | To play | Eseguire |
  | To pause | Sospendere |
  | To select | Selezionare |
  | Plugin | Estensione |
  | Ratio | Rapporto |
  | Resource | Risorsa |
- | Scale | Scala (nome), ridimensiona (verbo) |
+ | Scale | Scala (nome) <br> Ridimensionare (verbo) |
  | Script (inteso come sistema di scrittura) | Alfabeto |
  | Snap | Agganciamento, Scatto |
  | Step | Passo |
@@ -134,6 +140,7 @@
  | (OpenXR) Action | Azione (OpenXR) |
 
 [^bezier]: Nelle stringhe originali, "Bézier" è scritto senza accento. Questo è un errore da non riportare nella traduzione.
+[^contenuto]: A volte, il termine si riferisce alle "risorse" di Godot, quindi potrebbe essere appropriato tradurlo come "risorsa". In caso di dubbio è meglio evitare ambiguità e usare "Contenuto".
 [^lista]: Internamente sono implementati come vettori ma abbiamo scelto di usare "lista" per motivi di accessibilità e comprensione.
 [^annullare]: L'originale è esplicitamente più lungo.
 [^meta]: Spesso conosciuto anche col nome di "Tasto Windows", "Command" o anche "Super".
