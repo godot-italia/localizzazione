@@ -10,7 +10,7 @@
 - Preferire una normale `e` alla `&` (e commerciale);
 
 - Per evitare inconsistenze, usare la `d` eufonica solo quando ci sono due vocali *uguali*
-	- Salvo alcune frasi cristallizzate come: "ad esempio", "ad essere", "ad eccezione", ecc.
+	- Salvo alcune frasi cristallizzate come: "ad esempio", "ad esso", "ad eccezione", ecc.
 	- Esempio: ❌ "_Ed un punto_" -> ✅ "_E un punto_"
 
 - Utilizzare ["_sia/sia_" anziché "_sia/che_"](https://www.bericaeditrice.it/editoria/la-questione-e-grammatica-sia-sia-o-sia-che/)
